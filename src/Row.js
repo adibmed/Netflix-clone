@@ -1,6 +1,6 @@
 import React from "react";
 
-function Row() {
+function Row({ title }) {
   return <div className="row"></div>;
 }
 
